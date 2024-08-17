@@ -1,7 +1,7 @@
 name: perfect_keyboard
-description: "A new Flutter package project."
+description: "The Perfect Keyboard package provides a customizable and interactive keyboard layout for Flutter applications. It includes support for multiple languages and advanced key management features, allowing developers to create dynamic and localized keyboard experiences."
 version: 0.0.1
-homepage:
+homepage: https://github.com/MURABIT-PASHA/perfect_keyboard
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
@@ -16,10 +16,6 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
   assets:
     - lib/assets/

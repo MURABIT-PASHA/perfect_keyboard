@@ -1,6 +1,6 @@
 # Perfect Keyboard
 
-The Perfect Keyboard package provides a customizable and interactive keyboard layout for Flutter applications. It includes support for multiple languages, custom themes, and advanced key management features, allowing developers to create dynamic and localized keyboard experiences.
+The Perfect Keyboard package provides a customizable and interactive keyboard layout for Flutter applications. It includes support for multiple languages and advanced key management features, allowing developers to create dynamic and localized keyboard experiences.
 
 ## Features
 
