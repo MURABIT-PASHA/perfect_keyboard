@@ -4,41 +4,14 @@ The Perfect Keyboard package provides a customizable and interactive keyboard la
 
 ## Features
 
-  <style>
-    .container {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 20px;
-    }
-    .image {
-      flex: 1;
-      max-width: 50%;
-    }
-    .features {
-      flex: 1;
-      max-width: 50%;
-      padding-left: 20px;
-    }
-    .features ul {
-      list-style-type: disc;
-      padding-left: 20px;
-    }
-  </style>
-<body>
-  <div class="container">
-    <div class="image">
-      <img src="https://github.com/MURABIT-PASHA/Images/raw/main/keyboard.gif" alt="Flutter App Demo" width="600" height="250">
-    </div>
-    <div class="features">
-      <ul>
-        <li><strong>Advanced Keyboard Management</strong>: Utilize <code>SuperKeyboardKey</code> to manage key properties and relationships.</li>
-        <li><strong>Multi-language Support</strong>: Easily switch between keyboard layouts for different languages using JSON files.</li>
-        <li><strong>Special Key Handling</strong>: Includes support for special keys such as Space, Tab, Backspace, and more via the <code>SpecialKeys</code> enum.</li>
-      </ul>
-    </div>
-  </div>
-</body>
+<img src="https://github.com/MURABIT-PASHA/Images/raw/main/keyboard.gif" alt="Flutter App Demo" width="600" height="250">
+<div class="features">
+  <ul>
+    <li><strong>Advanced Keyboard Management</strong>: Utilize <code>SuperKeyboardKey</code> to manage key properties and relationships.</li>
+    <li><strong>Multi-language Support</strong>: Easily switch between keyboard layouts for different languages using JSON files.</li>
+    <li><strong>Special Key Handling</strong>: Includes support for special keys such as Space, Tab, Backspace, and more via the <code>SpecialKeys</code> enum.</li>
+  </ul>
+</div>
 
 ## Getting Started
 
