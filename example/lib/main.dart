@@ -32,7 +32,7 @@ class SuperKeyboard extends StatefulWidget {
 class _SuperKeyboardState extends State<SuperKeyboard>
     with SingleTickerProviderStateMixin {
   List<String> specialKey = [];
-  List<Locale> supportedLocales = [
+  List<Locale> supportedLocales = const [
     Locale('tr'),
     Locale('kk'),
     Locale('ar'),

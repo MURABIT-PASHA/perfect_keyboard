@@ -67,7 +67,8 @@ The Perfect Keyboard package provides a customizable and interactive keyboard la
 **For detailed usage and customization options, please check out example.**
 
 ## Additional Information
-Contributing: We welcome contributions! Please refer to the contributing guide for information on how to contribute.
-Issues: If you encounter any issues, please file them in the issues tracker.
-Contact: For any questions or feedback, you can reach out to the maintainer at akdoganmurabit@gmail.com.
-Thank you for using Perfect Keyboard!
+   * **Contributing:** We welcome contributions! Please refer to the contributing guide for information on how to contribute.
+   * **Issues:** If you encounter any issues, please file them in the issues tracker.
+   * **Contact:** For any questions or feedback, you can reach out to the maintainer at akdoganmurabit@gmail.com.
+
+__Thank you for using Perfect Keyboard!__
